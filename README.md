@@ -1,0 +1,3 @@
+# Siege
+
+Siege is an isometric strategy game based around defending a tower from attacking enemies. If the tower is destroyed, you will lose the game. The game will shift throughout history as the levels progress, and the enemies will match the time period they are in. For example, in the beginning, you will be attacked by cavemen, and then as the game progresses, the enemies become more civilised until you are being attacked by the US military. When you kill an enemy you gain coins which can be used to buy defences. These defenses will automatically attack the enemies. You win the game once you beat all of the levels.
